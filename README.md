@@ -7,7 +7,7 @@ The purpose behind this readme template is to help you create a quick readme to 
 ## Quick-README-Template
 [![Readme style](https://img.shields.io/badge/readme%20style-Quick-green)](https://www.example.com)
 <!-- Short description of project if you want -->
-Writing READMEs is way too hard,  With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
+With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
 
 ---
 <!-- TABLE OF CONTENTS -->
@@ -62,7 +62,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React native">
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
+  <img src="https://img.shields.io/badge/node-#303030?style=for-the-badge&logo=node&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/php-#8993BE?style=for-the-badge&logo=php&logoColor=white" alt="Php">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
