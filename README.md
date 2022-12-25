@@ -5,7 +5,7 @@ The purpose behind this readme template is to help you create a quick readme to 
 
 <!-- NAME OF THE PROJECT -->
 ## Quick-README-Template
-[![Readme style](https://img.shields.io/badge/readme%20style-Quick-green)]
+[Readme style](https://img.shields.io/badge/readme%20style-Quick-green)
 <!-- Short description of project if you want -->
 Writing READMEs is way too hard,  With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
 
