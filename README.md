@@ -9,7 +9,7 @@ The purpose behind this readme template is to help you create a quick readme to 
 <!-- Short description of project if you want -->
 Writing READMEs is way too hard,  With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
 
-##
+
 <!-- TABLE OF CONTENTS -->
 <details>
    <summary>Table of Contents</summary>
@@ -35,6 +35,7 @@ Writing READMEs is way too hard,  With Quick-readme you can spend less time worr
   </ol>
 </details>
 
+##
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
