@@ -46,11 +46,11 @@ Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch:weary:
 
-I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :green_heart:
+I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :green_heart:.
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
+<p align="right"><a href="#Quick-README-Template">back to top</a></p>
 
 ---
 
