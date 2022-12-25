@@ -6,3 +6,8 @@ The purpose behind this readme template is to help people create a quick readme 
 <!-- Name of the project -->
 ## Quick-README-Template
 
+<!-- Brief explanation if you want to -->
+Writing READMEs is way too hard,  With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
+
+
+
