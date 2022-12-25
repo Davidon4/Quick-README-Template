@@ -109,7 +109,7 @@ An example of how to provide instructions to your audience on installing and set
    npm start
    ```
 
-<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
 
 ---
 
@@ -122,7 +122,7 @@ In this space, you can provide useful examples of how your project can be utiliz
 <img width="80%" src="./image/Quick-readme_Image.png">
 </div>
 
-<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
 
 ---
 
@@ -138,7 +138,7 @@ Here are the steps to contribute:
 4. Push to the Branch (`git push origin feature/ImproveFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
 
 ---
 <!-- LICENSE -->
@@ -146,7 +146,7 @@ Here are the steps to contribute:
 
 Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/main/LICENSE).
 
-<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
 
 ---
 <!-- Author -->
