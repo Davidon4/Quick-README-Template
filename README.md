@@ -1,12 +1,12 @@
 <!-- Hi there, If you are reading this, This is a Readme sample to the readme template.
-The purpose behind this readme template is to help people create a quick readme to their project and focus on the important aspect which is coding and the likes. It is simple and easy to use.
+The purpose behind this readme template is to help you create a quick readme to your project and focus on the important aspect which is coding and the likes. It is simple and easy to use.
  -->
 <!--To have a better understanding, I am building this readme file to show what the readme would look like, Checkout the BLANK_README.md file to create your own readme file  -->
 
 <!-- NAME OF THE PROJECT -->
 ## Quick-README-Template
 
-<!-- Brief explanation if you want to -->
+<!-- Short description of project if you want -->
 Writing READMEs is way too hard,  With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
 
 <!-- TABLE OF CONTENTS -->
@@ -34,4 +34,18 @@ Writing READMEs is way too hard,  With Quick-readme you can spend less time worr
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
+I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+Here's why:
+* Quick-README is designed for open source libraries, It applies to all languages and package managers
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+
+I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :heart: :heart:
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
