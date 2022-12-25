@@ -129,10 +129,7 @@ In this space, you can provide useful examples of how your project can be utiliz
 <!-- CONTRIBUTION -->
 ## Contribution
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!:thumbsup:
+The open source community is a wonderful place for learning, inspiration, and creation, and contributions from individuals like you are greatly appreciated. If you have any suggestions for improvement, you can fork the repository and create a pull request, or simply open an issue with the tag "enhancement." Don't forget to give the project a star as a token of appreciation.Thanks again!:thumbsup:. Here are the steps to contribute:
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/ImproveFeature`)
@@ -140,4 +137,4 @@ Don't forget to give the project a star! Thanks again!:thumbsup:
 4. Push to the Branch (`git push origin feature/ImproveFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#QUICK-RREADME">back to top</a>)</p>
+<p align="right">(<a href="#QUICK-README">back to top</a>)</p>
