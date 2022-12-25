@@ -46,7 +46,7 @@ Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch:weary:
 
-I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :heart::heart:
+I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :green_heart:
 
 Use the `BLANK_README.md` to get started.
 
@@ -73,9 +73,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#quick-readme-top">back to top</a>)</p>
 
-[Back To The Top](#QUICK-README)
+[Back To The Top](#quick-readme)
 
 ---
 
@@ -142,7 +142,6 @@ Here are the steps to contribute:
 <p align="right">(<a href="#QUICK-README-top">back to top</a>)</p>
 
 ---
-
 <!-- LICENSE -->
 ## License:
 
@@ -151,7 +150,7 @@ Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
+<!-- Author -->
 ## Author Info:
 
 [Juggernaut.dev](https://github.com/Davidon4)
