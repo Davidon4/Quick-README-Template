@@ -63,8 +63,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
-  <img src="https://img.shields.io/badge/node-#303030?style=for-the-badge&logo=node&logoColor=white" alt="Node">
-  <img src="https://img.shields.io/badge/php-#8993BE?style=for-the-badge&logo=php&logoColor=white" alt="Php">
+  <img src="https://img.shields.io/badge/node-303030?style=for-the-badge&logo=node&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/php-8993BE?style=for-the-badge&logo=php&logoColor=white" alt="Php">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </div>
 
