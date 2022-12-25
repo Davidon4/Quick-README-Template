@@ -138,4 +138,19 @@ Here are the steps to contribute:
 4. Push to the Branch (`git push origin feature/ImproveFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#Quick-README-Template-top">back to top</a>)</p>
+<p align="right">(<a href="#QUICK-README-top">back to top</a>)</p>
+
+---
+
+<!-- LICENSE -->
+## License:
+
+Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/main/LICENSE).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Author Info:
+
+[Juggernaut.dev](https://github.com/Davidon4)
