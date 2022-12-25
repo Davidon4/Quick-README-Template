@@ -57,6 +57,7 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Here are a few examples.
+<!--These are the available list of badges. If your badge isn't there, you can visit one of the links and change the name and logo of the library to the library you need.-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React native">
@@ -73,3 +74,5 @@ This section should list any major frameworks/libraries used to bootstrap your p
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
