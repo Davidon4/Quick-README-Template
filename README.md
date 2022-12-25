@@ -50,7 +50,7 @@ I'll be adding more features in the near future. You may also suggest changes by
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
 
 ---
 
@@ -73,9 +73,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-<p align="right">(<a href="#quick-readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Quick-README-Template-top">back to top</a>)</p>
 
+[Back To The Top](#Quick-README-Template)
+[Back To The Top](#Quick-README)
+[Back To The Top](#QUICK-README)
+[Back To The Top](#README)
 [Back To The Top](#quick-readme)
+[Back To The Top](#quick-readme-template)
+[Back To The Top](#Quick-readme-template)
 
 ---
 
@@ -110,7 +116,7 @@ An example of how to provide instructions to your audience on installing and set
    npm start
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#QUICK-README-top">back to top</a>)</p>
 
 ---
 
@@ -123,7 +129,7 @@ In this space, you can provide useful examples of how your project can be utiliz
 <img width="80%" src="./image/Quick-readme_Image.png">
 </div>
 
-<p align="right">(<a href="#Quick-README-Template-top">back to top</a>)</p>
+<p align="right">(<a href="#README-top">back to top</a>)</p>
 
 ---
 
@@ -139,7 +145,7 @@ Here are the steps to contribute:
 4. Push to the Branch (`git push origin feature/ImproveFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#QUICK-README-top">back to top</a>)</p>
+<p align="right">(<a href="#quick-readme-top">back to top</a>)</p>
 
 ---
 <!-- LICENSE -->
@@ -147,7 +153,7 @@ Here are the steps to contribute:
 
 Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/main/LICENSE).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Quick-readme-template-top">back to top</a>)</p>
 
 ---
 <!-- Author -->
