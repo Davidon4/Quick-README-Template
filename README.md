@@ -118,7 +118,7 @@ An example of how to provide instructions to your audience on installing and set
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 <div align="center">
-<img width="40%" src="./image/Quick-readme_Image.png">
+<img width="100%" src="./image/Quick-readme_Image.png">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
