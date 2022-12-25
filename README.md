@@ -44,7 +44,7 @@ I want to create a README template so amazing that it'll be the last one you eve
 Here's why:
 * Quick-README is designed for all types of libraries, Which it applies to all languages and package managers
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch:cry:
+* You shouldn't be doing the same tasks over and over like creating a README from scratch:weary:
 
 I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :heart::heart:
 
@@ -130,7 +130,7 @@ In this space, you can provide useful examples of how your project can be utiliz
 <!-- CONTRIBUTION -->
 ## Contribution
 
-The open source community is a wonderful place for learning, inspiration, creation and contributions from individuals like you are greatly appreciated. If you have any suggestions for improvement, you can fork the repository and create a pull request, or simply open an issue with the tag "enhancement." Don't forget to give the project a star as a token of appreciation. Thanks!:thumbsup:. 
+The open source community is a wonderful place for learning, inspiration, creation and contributions from individuals like you are greatly appreciated. If you have any suggestions for improvement, you can fork the repository and create a pull request, or simply open an issue with the tag "enhancement." Don't forget to give the project a star as a token of appreciation. Thanks again! :green_heart::green_heart:. 
 Here are the steps to contribute:
 
 1. Fork the Project
