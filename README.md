@@ -153,3 +153,5 @@ Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/
 ## Author Info:
 
 [![Readme style](https://img.shields.io/badge/Author-Juggernaut.dev-blueviolet)](https://github.com/Davidon4)
+
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
