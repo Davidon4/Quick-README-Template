@@ -9,7 +9,7 @@ The purpose behind this readme template is to help you create a quick readme to 
 <!-- Short description of project if you want -->
 Writing READMEs is way too hard,  With Quick-readme you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
 
-##
+---
 <!-- TABLE OF CONTENTS -->
 <details>
    <summary>Table of Contents</summary>
@@ -35,7 +35,7 @@ Writing READMEs is way too hard,  With Quick-readme you can spend less time worr
   </ol>
 </details>
 
-##
+---
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -44,10 +44,27 @@ I want to create a README template so amazing that it'll be the last one you eve
 Here's why:
 * Quick-README is designed for all types of libraries, Which it applies to all languages and package managers
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch :cry:
+* You shouldn't be doing the same tasks over and over like creating a README from scratch:cry:
 
 I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks :heart::heart:
 
 Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
