@@ -50,7 +50,7 @@ I'll be adding more features in the near future. You may also suggest changes by
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right"><a href="#Quick-README-Template">back to top</a></p>
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
 
 ---
 
@@ -73,7 +73,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-<p align="right">(<a href="#Quick-README-Template">back to top</a>)</p>
+<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
 
 
 ---
