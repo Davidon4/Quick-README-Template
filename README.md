@@ -1,5 +1,4 @@
-<!-- Hi there, If you are reading this, This is a Readme sample to the readme template.
-The purpose behind this readme template is to help you create a quick readme to your project and focus on the important aspect which is coding and the likes. It is simple and easy to use.
+<!-- Welcome! You are reading a sample README that demonstrates the use of a README template. The purpose of this template is to help you quickly create a README for your project, allowing you to focus on the important aspects, like coding. This template is easy to use and will help you save time.
  -->
 <!--To have a better understanding, I am building this readme file to show what the readme would look like, Checkout the BLANK_README.md file to create your own readme file  -->
 
@@ -56,8 +55,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Here are a few examples.
-<!--These are the available list of badges. If your badge isn't there, you can visit one of the links and change the name and logo of the library to the library you need.-->
+In this section, you should list any major frameworks or libraries that were used to bootstrap your project. It is important to include this information as it helps other users and potential contributors understand the tools and technologies that were used to build the project. Here are a few examples of frameworks and libraries that you might mention:
+<!--The following badges are available, If you don't see the badge you need, you can visit one of the links and change the name and logo of the library to the one you require -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React native">
@@ -133,9 +132,9 @@ The open source community is a wonderful place for learning, inspiration, creati
 Here are the steps to contribute:
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/ImproveFeature`)
-3. Commit your Changes (`git commit -m 'Add some ImproveFeature'`)
-4. Push to the Branch (`git push origin feature/ImproveFeature`)
+2. Create your Feature Branch (`git checkout -b feature/EnhanceFeature`)
+3. Commit your Changes (`git commit -m 'Add some EnhanceFeature'`)
+4. Push to the Branch (`git push origin feature/EnhanceFeature`)
 5. Open a Pull Request
 
 <p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
