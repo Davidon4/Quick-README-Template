@@ -1,7 +1,7 @@
 <!-- To ensure that your work is easy to read and concise, you should only include the necessary details. It is not necessary to use the entire template. -->
 
 <!--
-*** Thank you for checking out the Quick-README-Template. 
+*** Thank you for checking out Quick-README-Template. 
 *** If you have any suggestions for improvement, you can either create a pull request by forking the repository or simply *** open an issue with the tag "enhancement". 
 *** Don't forget to give the project a star to show your support! Thank you again for your interest in this project. 
 *** We hope that you will create something amazing with it! 
@@ -32,7 +32,6 @@ You can provide a brief summary of your project in this section of the README fi
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contribution</a></li>
-    <li><a href="#contact">Reference</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Author Info</a></li>
   </ol>
@@ -56,6 +55,8 @@ You can provide a brief summary of your project in this section of the README fi
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. If you don't see the badge you need, you can visit one of the links and change the name and logo of the library to the one you require. -->
+
+ <!-- <img src="https://img.shields.io/badge/library_name-library_color?style=for-the-badge&logo=library_logo_name&logoColor=library_logo_color" alt="library_name">-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React native">
@@ -83,7 +84,7 @@ This is an example of how you may give instructions on setting up your project l
 
 ### Prerequisites
 <!-- Guideline on installing software -->
-To use the software, you will need to install the necessary items and follow the instructions on how to list and install them. An example is provided to help guide you through the process.
+To use the software, audience will need to install the necessary items. Provide a guide to help through the process.
 
 * npm
   ```
@@ -96,7 +97,7 @@ An example of how to provide instructions to your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/github_username_/repo-name.git
    ```
 2. Install NPM package
    ```sh
@@ -107,7 +108,7 @@ An example of how to provide instructions to your audience on installing and set
    npm start
    ```
 
-<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
+<p align="right">[<a href="#project-name">back to top</a>]</p>
 
 ---
 
@@ -117,41 +118,31 @@ An example of how to provide instructions to your audience on installing and set
 In this space, you can provide useful examples of how your project can be utilized. This may include screenshots, code examples, demos, and links to additional resources. Additional materials such as these can help showcase the capabilities of your project.
 
 <div align="center">
-<img width="80%" src="./image/Quick-readme_Image.png">
+<img width="80%" src="your_image">
 </div>
 
-<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
+<p align="right">[<a href="#project-name">back to top</a>]</p>
 
 ---
 
 <!-- CONTRIBUTION -->
 ## Contribution
+<!-- If you would like to create a contribution section on your project, check out the README.md file for an example on how to contribute. Provide information on how to contribute to your project in this section -->
 
-The open source community is a wonderful place for learning, inspiration, creation and contributions from individuals like you are greatly appreciated. If you have any suggestions for improvement, you can fork the repository and create a pull request, or simply open an issue with the tag "enhancement." Don't forget to give the project a star as a token of appreciation. Thanks again! :green_heart::green_heart:. 
-Here are the steps to contribute:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/EnhanceFeature`)
-3. Commit your Changes (`git commit -m 'Add some EnhanceFeature'`)
-4. Push to the Branch (`git push origin feature/EnhanceFeature`)
-5. Open a Pull Request
-
-<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
+<p align="right">[<a href="#project-name">back to top</a>]</p>
 
 ---
 <!-- LICENSE -->
 ## License:
 
-Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/main/LICENSE).
+Licensed under the [MIT](https://github.com/github_username/repo_name/blob/main/LICENSE).
 
-<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
+<p align="right">[<a href="#project-name">back to top</a>]</p>
 
 ---
 <!-- Author -->
 ## Author Info:
 
-[![Readme style](https://img.shields.io/badge/Author-Juggernaut.dev-blueviolet)](https://github.com/Davidon4)
+[![Readme style](https://img.shields.io/badge/Author-github_username-color_of_your_choice)](https://github.com/github_username)
 
-<p align="right">[<a href="#Quick-README-Template">back to top</a>]</p>
-
-Thanks for checking out the Best-README-Template. If you have a suggestion that would make this better, please fork the repo and create a pull requestor simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again! Now go create something AMAZING! :D
+<p align="right">[<a href="#project-name">back to top</a>]</p>

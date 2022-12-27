@@ -28,7 +28,6 @@ With Quick-readme you can spend less time worrying about whether or not your ini
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contribution</a></li>
-    <li><a href="#contact">Reference</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Author Info</a></li>
   </ol>
