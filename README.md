@@ -140,7 +140,7 @@ Here are the steps to contribute:
 
 ---
 <!-- LICENSE -->
-## License:
+## License
 
 Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/main/LICENSE).
 
@@ -148,7 +148,7 @@ Licensed under the [MIT](https://github.com/Davidon4/Quick-README-Template/blob/
 
 ---
 <!-- Author -->
-## Author Info:
+## Author Info
 
 [![Readme style](https://img.shields.io/badge/Author-Juggernaut.dev-blueviolet)](https://github.com/Davidon4)
 

@@ -133,7 +133,7 @@ In this space, you can provide useful examples of how your project can be utiliz
 
 ---
 <!-- LICENSE -->
-## License:
+## License
 
 Licensed under the [MIT](https://github.com/github_username/repo_name/blob/main/LICENSE).
 
@@ -141,7 +141,7 @@ Licensed under the [MIT](https://github.com/github_username/repo_name/blob/main/
 
 ---
 <!-- Author -->
-## Author Info:
+## Author Info
 
 [![Readme style](https://img.shields.io/badge/Author-github_username-color_of_your_choice)](https://github.com/github_username)
 
