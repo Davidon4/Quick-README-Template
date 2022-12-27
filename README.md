@@ -92,7 +92,7 @@ To use the software, you will need to install the necessary items and follow the
 
 ### Installation
 
-An example of how to provide instructions to your audience on installing and setting up your app is as follows
+To provide instructions to your audience on installing and setting up your app, an example is as follows:
 
 1. Clone the repo
    ```sh
